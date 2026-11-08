@@ -1,0 +1,3 @@
+configuration,document_retrieval,expected_facts,unanswerable_fallback
+10-word overlap,12/12,12/12,2/2
+Zero overlap,12/12,11/12,2/2
